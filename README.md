@@ -23,3 +23,5 @@ The deep learning algorithms tested are listed as follows:
 7. RoBERTa (Transformer architecture)
 8. BERT
 9. XLNet
+
+Note - The report of the experiments is included in this repo.
